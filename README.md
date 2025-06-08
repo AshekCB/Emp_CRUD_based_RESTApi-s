@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Management REST API using Spring Boot & MySQL
+# 🧑‍💼 Employee Management REST API's using Spring Boot & MySQL
 
 This project is a simple yet powerful **Spring Boot-based REST API's** for managing employee records in a MySQL database. It allows clients to perform all **CRUD operations (Create, Read, Update, Delete)** through **Postman** or any REST client.
 
